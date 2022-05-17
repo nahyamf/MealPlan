@@ -41,7 +41,12 @@
     <span class="carousel-control-next-icon"></span>
   </a>
 </div>
-<div class="container mt-5 mb-3 ">
+<a href="#" style="text-decoration: none;" onclick="ShowDiv()">
+<div class="tombol mt-3">
+    <h3 style="padding-top: 5px;">Book Now</h3>
+    </div>
+</a>
+<div class="container mt-3 mb-3 ">
     <div class="row desc">
         <div class="col-md-6 mt-3">
         <h1>Restoran Antar</h1>
@@ -59,13 +64,8 @@
             width="525" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </div>
-    <a href="" style="text-decoration: none;" onclick="ShowDiv()">
-        <div class="tombol mt-3">
-        <h3 style="padding-top: 5px;">Book Now</h3>
-        </div>
-    </a>
-    <h1>ngetest</h1>
-    <div class="row mt-3 desc">
+    
+    <div class="row mt-5 desc">
         <div class="col-md-12 mt-3">
             <h2>Review</h2>
         </div>

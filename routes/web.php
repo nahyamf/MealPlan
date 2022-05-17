@@ -33,5 +33,10 @@ Route::get('halamanresto', function () {
         "title" => "resto"
     ]);
 });
+Route::get('splashscreen', function () {
+    return view('/splashscreen',[
+        "title" => "."
+    ]);
+});
 
 

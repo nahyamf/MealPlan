@@ -7,7 +7,7 @@
 </div>
 <div class="searchbar mt-5">
     <form>
-        <input type="text" placeholder="Seacrh..." name="search" style="width:100% ;">
+        <input class="kolomsearch"type="text" placeholder="Search..." name="search">
     </form>
 </div>
 <div id="demo" class="carousel slide mt-5" data-ride="carousel">

@@ -87,6 +87,9 @@ form .txt_field {
     transition: 0.6s;
     font-family: "Dela Gothic One", cursive;
     color: #707070;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 500px;
 }
 .tombol:hover {
     background-color: #e3dac7;
@@ -223,6 +226,14 @@ input[type="submit"]:hover {
     top: 120px;
     z-index: 99;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+    background-color: #f8f0df;
+    border-radius: 10px;
+}
+.kolomsearch {
+    width: 100%;
+    background-color: #f8f0df;
+    border: none;
+    border-radius: 7px;
 }
 .searchbtn {
     text-align: right;
