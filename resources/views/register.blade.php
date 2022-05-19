@@ -1,7 +1,7 @@
 @extends('layout/layout')
 @section('container')
     <div class="center">
-    <h1>Register</h1>
+    <h1>Sign Up</h1>
       <form method="post">
       <div class="txt_field">
           <input type="text" required>
